@@ -8,5 +8,5 @@ This project was written in Python 2.7.14 and only uses PSL.
 
 ## Running the site
 ```
-python <entertainment_center.py
+python entertainment_center.py
 ```
